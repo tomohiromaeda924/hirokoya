@@ -870,6 +870,7 @@ img.fr {float: right;width:30%;margin-left: 20px;margin-bottom: 20px;}
 }
 .summaryType ul{
 	text-align: center;
+	
 
 }
 .summaryType li{
@@ -877,16 +878,22 @@ img.fr {float: right;width:30%;margin-left: 20px;margin-bottom: 20px;}
 	display: inline-block;
 	width:32%;
 	overflow:hidden;
+	height:400px;
+	
 }
 
 .summaryType img{
 	height: 250px;
   width:100%;
 	margin:2;
+	
 }
 .summaryType p{
 	text-align: center;
 	word-wrap:break-word;
+}
+.careerhange{
+	
 }
 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -930,6 +937,9 @@ img.fr {float: right;width:30%;margin-left: 20px;margin-bottom: 20px;}
 
 	}
 
+#userName, #wl, #userAddress{
+	border:1px solid black;
+}
 
 }
 

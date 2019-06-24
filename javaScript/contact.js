@@ -17,13 +17,13 @@ window.onload = function(){
         target3.innerHTML = input;
         
         var bgcolor = document.getElementById('contents');
-        bgcolor.style.background = '#EEEEEE';
+        bgcolor.style.background = '#666';
         var bgcolor1 = document.getElementById('userAddress');
-        bgcolor1.style.background = '#EEEEEE';
+        bgcolor1.style.background = '#666';
         var bgcolor2 = document.getElementById('userName');
-        bgcolor2.style.background = '#EEEEEE';
+        bgcolor2.style.background = '#666';
         var bgcolor3 = document.getElementById('wl');
-        bgcolor3.style.background = '#EEEEEE';
+        bgcolor3.style.background = '#666';
     }else{
       modal = document.getElementById('confirmationScreenUn420');
       modal.style.display = 'block';
@@ -39,13 +39,13 @@ window.onload = function(){
       target3.innerHTML = input;
      
       var bgcolor = document.getElementById('contents');
-        bgcolor.style.background = '#EEEEEE';
+        bgcolor.style.background = '#666';
         var bgcolor1 = document.getElementById('userAddress');
-        bgcolor1.style.background = '#EEEEEE';
+        bgcolor1.style.background = '#666';
         var bgcolor2 = document.getElementById('userName');
-        bgcolor2.style.background = '#EEEEEE';
+        bgcolor2.style.background = '#666';
         var bgcolor3 = document.getElementById('wl');
-        bgcolor3.style.background = '#EEEEEE';
+        bgcolor3.style.background = '#666';
       
     }
 

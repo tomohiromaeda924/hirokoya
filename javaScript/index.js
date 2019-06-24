@@ -6,7 +6,7 @@ window.onload = function(){
     var scrollTop =
         document.documentElement.scrollTop || // IE、Firefox、Opera
         document.body.scrollTop;              // Chrome、Safari
-    if(scrollTop > 200){
+    if(scrollTop > 10){
       document.getElementById('js-button').style.display = "block";
     }else{
       document.getElementById('js-button').style.display = "none";
